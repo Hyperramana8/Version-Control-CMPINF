@@ -18,3 +18,7 @@ You can contribute to the repository you can download it to your computer after 
 
 ## Test.ipynb
 This was just a test file ZKloibs uploaded to the lab. Testing how to upload files to github from Jupyter.
+
+## License
+License was taken from opensource.org
+The license is a 
